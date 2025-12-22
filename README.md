@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Ansible for Infrastructure as Code (IaC) practices.**
 
+- 👨‍💻 Certifications: [AWS Cloud Practitioner, CompTia Security+ (Pending)](AWS Cloud Practitioner, CompTia Security+ (Pending))
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/michael-w-burbank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-w-burbank" height="30" width="40" /></a>
