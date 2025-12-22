@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Michael Burbank</h1>
-<h3 align="center">I am a United States Army Veteran turned Software Engineer who has been building and learning across software and cloud technologies for the past few years 💻☁️. I enjoy working with Python, Ansible (IaC), cloud platforms, and DevOps tools throughout the day ⚙️, but that never holds me back from exploring new technologies 🚀. You will usually find me learning about tech, cloud infrastructure, security, automation, and how systems work together 🔐📚.</h3>
+<h3 align="center">I am a United States Army Veteran turned Software Engineer who has been building and learning across software and cloud technologies for the past few years 💻☁️. I enjoy working with JavaScript, cloud platforms, and DevOps tools throughout the day ⚙️, but that never holds me back from exploring new technologies 🚀. You will usually find me learning about tech, cloud infrastructure, security, automation, and how systems work together 🔐📚.</h3>
 
-<p align="left"> <img src="https://github.com/?username=michael-burbank&label=Profile%20views&color=0e75b6&style=flat" alt="michael-burbank" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-burbank&label=Profile%20Views&color=7e03a0&style=flat" alt="michael-burbank" /> </p>
 
-<p align="left"> <a href="https://github.com/michael-burbank/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michael-burbank" alt="michael-burbank" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michael-burbank" alt="michael-burbank" /></a> </p>
 
 - 🔭 I’m currently working on my [static AWS S3 bucket update tracker](https://michael-burbank.com/)
 
 - 🌱 I’m currently learning **Ansible for Infrastructure as Code (IaC) practices.**
 
-- 👨‍💻 Certifications: AWS Cloud Practitioner, CompTia Security+ (Pending)
+- 👨‍💻 Certifications: [AWS Cloud Practitioner, CompTia Security+ (Pending)](AWS Cloud Practitioner, CompTia Security+ (Pending))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
