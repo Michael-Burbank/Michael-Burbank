@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-burbank&label=Profile%20Views&color=7e03a0&style=flat" /> </p>
 
-<p align="left"> <a href="https://github.com/michael-burbank/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michael-burbank" alt="michael-burbank" /></a> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=michael-burbank)](https://github.com/michael-burbank/github-profile-trophy)
-
 - 🔭 I’m currently working on my [static AWS S3 bucket update tracker](https://michael-burbank.com/)
 
 - 🌱 I’m currently learning **Ansible for Infrastructure as Code (IaC) practices.**
