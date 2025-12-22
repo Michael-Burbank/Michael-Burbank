@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael Burbank</h1>
 <h3 align="center">I am a United States Army Veteran turned Software Engineer who has been building and learning across software and cloud technologies for the past few years 💻☁️. I enjoy working with JavaScript, cloud platforms, and DevOps tools throughout the day ⚙️, but that never holds me back from exploring new technologies 🚀. You will usually find me learning about tech, cloud infrastructure, security, automation, and how systems work together 🔐📚.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-burbank&label=Profile%20Views&color=7e03a0&style=flat" alt="michael-burbank" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=michael-burbank&label=Profile%20Views&color=7e03a0&style=flat" alt="michael-burbank" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michael-burbank" alt="michael-burbank" /></a> </p>
 
