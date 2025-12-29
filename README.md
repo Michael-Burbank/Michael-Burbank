@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ansible for Infrastructure as Code (IaC) practices.**
 
-- 👨‍💻 Certifications: AWS Cloud Practitioner, CompTia Security+ (Pending)
+- 👨‍💻 Certifications: AWS Cloud Practitioner, AWS Solutions Architect - Associate (Pending), CompTia Security+ (Pending)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
