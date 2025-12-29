@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=michael-burbank&label=Profile%20Views&color=7e03a0&style=flat" /> </p>
 
-- 🔭 I’m currently working on my [static AWS S3 bucket update tracker](https://michael-burbank.com/)
+- 🔭 I’m currently working on my [static AWS S3 bucket update tracker](https://michael-burbank.com/) and my AWS Cloud Resume Challenge project. 
 
 - 🌱 I’m currently learning **Ansible for Infrastructure as Code (IaC) practices.**
 
