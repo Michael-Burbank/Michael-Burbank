@@ -1,4 +1,4 @@
-<strong><h1 align="center">I migrated to GitLab! <br>My pipelines mirror updates from GitLab to GitHub to maintain a presence on both platforms. </h1>
+<strong><h1 align="center">I've migrated to GitLab! <br>I mirror updates from GitLab to GitHub to maintain a presence on both platforms. </h1>
 <h2 align="center">Checkout my profile here! https://gitlab.com/mike.burbank</h2></strong>
 <h1 align="center">Hi 👋, I'm Michael Burbank</h1>
 <h3 align="center">I am a United States Army Veteran turned Software Engineer who has been building and learning across software and cloud technologies for the past few years 💻☁️. I enjoy working with Python, Ansible, cloud platforms (AWS), and DevOps tools throughout the day ⚙️, but that never holds me back from exploring new technologies 🚀. You will usually find me learning about tech, cloud infrastructure, security, automation, and how systems work together 🔐📚.</h3>
